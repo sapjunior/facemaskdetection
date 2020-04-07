@@ -2,7 +2,7 @@
 
 
 
-## Testing on i5-8250U ~30fps at 1024x768 (CPU Only), Model Size 2.4MB
+## Testing on i5-8250U ~30fps at 1024x768 (CPU Only), Model Size 2.4MB (ONNX)
 
 ## Dependencies:
 - OpenCV
